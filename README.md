@@ -12,6 +12,6 @@ However, there are some barriers to learn and under polymers modeling and simula
 
 
 # Notebook
-[llamaindex version](llamaindex_RAG_Polymer_Simulation_Template.ipynb)
+[llamaindex version](./notebook/llamaindex_RAG_Polymer_Simulation_Template.ipynb)
 
 langchain version in developing 
