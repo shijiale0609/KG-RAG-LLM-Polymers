@@ -4,7 +4,7 @@ Polymers modeling and simulation are important to explore the mechanisms of poly
 However, there are some barriers to learn and under polymers modeling and simulation. We hope to build this Knowledge-graph based  RAG and LLM to make it easy for new users. 
 
 
-![summary](./images/firstpage.png)
+![summary](./images/LLM_hackthon2024.png)
 
 ![knowledge_graph]()
 
