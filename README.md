@@ -6,9 +6,11 @@ However, there are some barriers to learn and under polymers modeling and simula
 
 ![summary](./images/LLM_hackthon2024.png)
 
-![knowledge_graph]()
+[Slides](./kg-rag-llm-slides.pdf)
 
-![QA]()
+[Youtube](https://www.youtube.com/watch?v=VXMX4sJVxdE)
+
+[Twitter](https://twitter.com/Jiale_Shi/status/1788669935293796727)
 
 
 # Notebook
